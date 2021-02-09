@@ -5,7 +5,7 @@ public class Deneme {
 
         System.out.println("Mustafa'dan ilk mesaj");
         System.out.println("Ibrahim'den ilk mesaj");
-
+        //second try
     }
 
 }
